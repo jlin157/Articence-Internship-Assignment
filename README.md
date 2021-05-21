@@ -1,4 +1,4 @@
-# Articence-Internship-Assignment
+# Articence-Internship-Evaluation
 
 Using data science algorithms,
 1. suggest which products should be dropped from selling in the next year moving forward and which products should be sold more. Should any region be given preference over the other?
